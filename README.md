@@ -3,7 +3,6 @@
 This is a Streamlit-based interactive dashboard for exploring the [CORD-19](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge) dataset. It allows users to analyze COVID-19 research metadata, visualize trends, and generate insights from paper titles, abstracts, and publication sources.
 
 
----
 
 ## 🚀 Getting Started
 
